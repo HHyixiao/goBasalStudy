@@ -1,2 +1,2 @@
 # goBasalStudy
-学习ing
+学习语法基础ing
