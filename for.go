@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func forFunc() {
+func main() {
 
    var b int = 15
    var a int
